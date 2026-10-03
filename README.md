@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of klxf/flarum-maintenance.** Not for installation: use [Packagist](https://packagist.org/packages/klxf/flarum-maintenance) or the [upstream repository](https://github.com/klxf/flarum-maintenance).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/klxf-flarum-maintenance/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.8.0`
+**3** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/klxf-flarum-maintenance/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2025-09-15 | `^1.8.0` | [Browse](https://github.com/flarchive/klxf-flarum-maintenance/tree/archive/v1.0.0) |
+| `1.0.1` | 2025-09-15 | `^1.8.0` | [Browse](https://github.com/flarchive/klxf-flarum-maintenance/tree/archive/v1.0.1) |
+| `1.1.0` | 2025-09-16 | `^1.8.0` | [Browse](https://github.com/flarchive/klxf-flarum-maintenance/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/klxf-flarum-maintenance.json](https://github.com/flarchive/archive-index/blob/main/packages/klxf-flarum-maintenance.json)
 
